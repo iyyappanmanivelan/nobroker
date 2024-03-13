@@ -1,0 +1,536 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+ul{
+  padding: 0px !important;
+  margin: 0px !important;
+  list-style: none;
+}
+.container{
+ max-width: 1200px;
+ width: 100%;
+ margin: 0px auto;
+}
+.flex-concept{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.header-section p{
+  margin: 0px;
+}
+.shortlist{
+  display: flex;
+  align-items: center;
+}
+.location-list select{
+  border: none;
+  background-color:#fddbd27d;
+}
+.free-post{
+  border: 2px solid;
+  padding: 3px 5px;
+  border-radius: 20px;
+  border-color: orangered;
+}
+.free-post .free-name{
+   padding: 0px 7px;
+   background-color:orangered;
+   border-radius: 20px;
+   color: white;
+}
+.person-logo{
+  font-size: 40px;
+  color: orangered;
+}
+.person-content{
+  color: orangered;
+}
+.personimg{
+  border: 2px solid black;
+    border-radius: 23px;
+}
+.login-btn{
+  border: 1px solid orangered;
+  padding: 5px 10px;
+  background-color: orangered;
+  color: white;
+}
+.login{
+  border-right: 1px solid white;
+}
+.login p{
+  padding: 0px 8px 0px 0px;
+}
+.location-logo{
+  font-size: 20px;
+}
+.header-section{
+  border-bottom: 1px solid orange;
+  background-color: #fddbd27d;
+}
+.page-types{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.page-types li{
+  margin: 10px 15px;
+  padding: 5px;
+  font-weight: 600;
+  cursor: pointer;
+  font-size: 14px;
+}
+.page-types .active{
+  border-top: 2px solid orangered;
+  color: orangered;
+}
+.page-types span{
+  margin: 0px 10px;
+}
+.navlist{
+  background-color: #fddbd27d;
+}
+.house{
+  width: 100%;
+  height: 400px;
+  background: url('image/home.jpeg');
+  overflow: hidden;
+  background-size: cover;
+  position: relative;
+}
+.house-overlay{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color:#fddbd27d;
+}
+.house-image{
+  background-color:#fddbd27d;
+  position: relative;
+}
+.enquiry-list{
+  position: absolute;
+  top: 16%;
+  left: 33%;
+}
+.house-details{
+  position: absolute;
+  top: 50%;
+  left: 20%;
+}
+.type-list{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.type-list li{
+  margin: 0px 13px;
+    font-size: 21px;
+    font-weight: 600;
+    padding: 5px 30px;
+    background-color: white;
+    border-radius: 4px;
+}
+.type-list li:hover{
+  background-color: orangered;
+  color: white;
+  cursor: pointer;
+}
+.dreamhouse{
+  color: orangered;
+}
+.b-name h1{
+  font-weight: 700;
+}
+.inform-type-list{
+  display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 10px;
+}
+.inform-collect-list{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.inform-collect-list li{
+  border: 1px solid orangered;
+  padding: 9px 22px;
+   margin: 0px 8px;
+   border-radius: 4px;
+}
+.house-information{
+  padding: 13px 16px;
+  cursor: pointer;
+}
+.inform-collect-list span{
+  margin: 0px 0px 0px 30px;
+}
+.inform-collect-list li:nth-child(5){
+  background-color: orangered;
+  color: white;
+  border-radius: 4px;
+}
+.properties .container{
+  max-width: 580px;
+  width: 100%;
+  margin: 0px auto;
+}
+
+.reviews-star{
+  display: flex;
+  align-items: center;
+}
+.reviews-star{
+  color: #ffba00;
+}
+
+.place-info{
+  padding: 30px 10px 0px 10px;
+}
+.place-info p{
+  margin: 3px 0px;
+}
+.place-images div{
+  cursor: pointer;
+}
+.details:hover{
+  border: 1px solid orangered;
+}
+.select-boxes{
+  display: flex;
+  align-items: center;
+}
+.box{
+  margin: 0px 10px;
+  padding: 12px;
+  background-color: white;
+}
+.select-boxes .box:nth-child(1) .img-fluid{
+   width: 22%;
+}
+.select-boxes .box:nth-child(2) .img-fluid{
+  width: 22%;
+}
+.select-boxes .box:nth-child(3) .img-fluid{
+  width: 17%;
+}
+.select-boxes .box:nth-child(4) .img-fluid{
+  width: 19%;
+}
+.selection{
+  background-color:#fddbd27d;
+}
+.read p{
+  border-bottom: 2px solid gray;
+  color: gray;
+  cursor: pointer;
+}
+.box-content p{
+  color: gray;
+}
+.house-logo .img-fluid{
+  width: 100%;
+}
+.house-pic {
+  width: 20%;
+  height: 100%;
+  border: 2px solid orangered;
+}
+.latest-house{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.house-price h3{
+  font-size: 21px;
+}
+
+.house-info{
+    color:black;
+    padding: 15px 10px 0px 10px;
+    cursor: pointer;
+    font-size: 13px;
+    margin: 0px;
+}
+.house-logo{
+  position: relative;
+}
+.house-detail{
+  font-size: 13px;
+  margin: 3px 0px;
+}
+
+.img-details{
+  position: absolute;
+    top: 11px;
+    border: 1px solid orangered;
+    color: white;
+    left: 12px;
+    padding: 3px 6px;
+    border-radius: 5px;
+}
+.img-details h4{
+  margin: 0px;
+  font-weight: 400;
+  font-size: 15px;
+}
+.img-details:hover{
+  background-color: orangered;
+  cursor: pointer;
+}
+.house-location{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-weight: 600;
+  font-size: 14px;
+
+}
+.house-info:hover{
+  background-color: orangered;
+  color: white;
+}
+
+.heart-pic{
+  position: absolute;
+  top: 8px;
+  right: 6px;
+  color: white;
+}
+.hear-color{
+  color: orangered;
+}
+.likes{
+  position: absolute;
+  top: 135px;
+  left: 10px;
+  color: white;
+}
+.house-information{
+  padding: 0px 16px;
+}
+.list-button button{
+  background-color: orangered;
+  padding: 5px 20px;
+  border: none;
+  cursor: pointer;
+}
+.information-collect{
+  padding: 0px 0px 12px 0px;
+}
+.explore-img-list{
+  width: 300px;
+  text-align: center;
+  border: 1px solid orangered;
+  padding: 17px;
+  border-radius: 7px;
+}
+.explore{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  cursor: pointer;
+}
+.explore-img-list img{
+  border-radius: 10px;
+}
+.explore-content h3{
+  font-size: 19px;
+  font-weight: 700;
+  margin: 10px 0px;
+}
+.explore-content p{
+  font-size: 12px;
+}
+.explore h6{
+  color: orangered;
+}
+.explore-img-list:hover{
+  background-color: orangered;
+  color: white;
+
+}
+.explore-img-list:hover .explore-content h6{
+  color: white !important;
+}
+.explore-img-list:hover .follower{
+  color: white !important;
+}
+.image-visit{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.free-house{
+  max-width: 380px;
+  width: 100%;
+  position: relative;
+  color: white;
+}
+.free-name{
+  position: absolute;
+  top: 175px;
+  display: flex;
+  left: 20px;
+}
+.feature-count{
+  display: flex;
+  position: absolute;
+  top: 212px;
+  left: 20px;
+}
+.description-list{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.description-date{
+  display: flex;
+  justify-content: space-between;
+}
+.description-info p{
+  font-size: 10px;
+}
+.description{
+  padding: 40px 50px;
+}
+.articles-description{
+  background-color:#fddbd27d;
+}
+.client-speech{
+  display: flex;
+  align-items: center;
+}
+.client-list{
+  padding: 10px 20px;
+}
+.client-stars{
+    color: #ffba00;
+}
+.plan-list{
+  display: flex;
+  align-items: center;
+  color:rgb(42 42 110);
+  justify-content: space-evenly;
+  cursor: pointer;
+  padding: 40px;
+}
+ .free:hover{
+  background-color: orangered;
+  color: white;
+  border-radius: 10px;
+
+}
+.plan-list li{
+  margin: 30px 0px;
+}
+.plan-type h5{
+  font-weight: 700;
+}
+.non{
+  color:rgba(42, 42, 110, 0.303);
+}
+.free:hover .choose-btn{
+  text-align: center;
+}
+.free{
+  padding: 20px;
+}
+
+.choose-btn button{
+  padding: 5px 50px;
+  border-radius: 10px;
+  margin: 10PX 0PX;
+  background-color: #fddbd27d;
+  color: orangered;
+  border: none;
+}
+.choose-btn2{
+  display: none;
+}
+.choose-btn-try button{
+  padding: 5px 50px;
+  border-radius: 10px;
+  margin: 10PX 0PX;
+  background-color: black;
+  color: white;
+  border: none;
+}
+.choose-btn-try{
+  text-align: center;
+}
+.choose-btn-try2{
+  display: none;
+}
+.client-read p{
+  color: orangered;
+  cursor: pointer;
+}
+.background-view{
+  background-image: url('./image//contact-bg.jpeg');
+  overflow: hidden;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+}
+.upper-apply{
+  position: absolute;
+  top:0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  background-color:#0a0a0a7d;
+}
+.contact-view{
+  position: absolute;
+  top: 30px;
+  left: 28%;
+}
+.customer-details{
+  position: absolute;
+  top: 30%;
+  left: 26%;
+}
+.location-select select{
+  padding: 7px 57px;
+  margin: 20px 0px;
+  background: #ffffff69;
+  border: 1px solid white;
+}
+.name input{
+  padding: 7px 30px;
+  margin: 20px 0px;
+  background: #ffffff69;
+  border: 1px solid white;
+  color: white;
+}
+
+.contact-display {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.enquiry-msg textarea{
+  background: #ffffff69;
+  border: 1px solid white;
+  margin: 20px 0px;
+}
+.contact-submit button{
+  padding: 3px 20px;
+  background-color: orangered;
+  border: none;
+  color: white;
+}
+.contact-submit{
+  text-align: right;
+}
