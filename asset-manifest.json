@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/nobroker/static/css/main.47103de8.css",
+    "main.js": "/nobroker/static/js/main.6c5d3cd1.js",
+    "static/js/453.e52305e5.chunk.js": "/nobroker/static/js/453.e52305e5.chunk.js",
+    "static/media/contact-bg.jpeg": "/nobroker/static/media/contact-bg.34c4e6c134d2e92a19cb.jpeg",
+    "static/media/hall.jpg": "/nobroker/static/media/hall.4aef6bc78774b0c7b9aa.jpg",
+    "static/media/Chennai.jpg": "/nobroker/static/media/Chennai.b3c17304100de30f11ee.jpg",
+    "static/media/singlehome.jpg": "/nobroker/static/media/singlehome.c5274a9599657afe5486.jpg",
+    "static/media/pune.jpg": "/nobroker/static/media/pune.d93e205fc2b13dd0567b.jpg",
+    "static/media/Kolkata.avif": "/nobroker/static/media/Kolkata.d458fc1d2785ffabbb1e.avif",
+    "static/media/ghaziabad.jpg": "/nobroker/static/media/ghaziabad.7536b1eaf82842e4054a.jpg",
+    "static/media/featureimg1.jpg": "/nobroker/static/media/featureimg1.3be5e5459809a5368436.jpg",
+    "static/media/delhi.webp": "/nobroker/static/media/delhi.591ef93edcabdd44541d.webp",
+    "static/media/banglore.jpg": "/nobroker/static/media/banglore.fb63d2eb905661c143fe.jpg",
+    "static/media/home.jpeg": "/nobroker/static/media/home.d485b98afdcf1faa8f0b.jpeg",
+    "static/media/mumbai.jpg": "/nobroker/static/media/mumbai.60f0318d41749a839f8a.jpg",
+    "static/media/appartment.jpg": "/nobroker/static/media/appartment.59ab835e53a5c7fb5b2b.jpg",
+    "static/media/featureimg2.jpg": "/nobroker/static/media/featureimg2.d635360ca756de70c819.jpg",
+    "static/media/faridabad.jpg": "/nobroker/static/media/faridabad.9a6dbeadb40438645634.jpg",
+    "static/media/noida.jpg": "/nobroker/static/media/noida.f3879c9e0885f657399e.jpg",
+    "static/media/houseshift.jpg": "/nobroker/static/media/houseshift.75f5ad894ead581af5eb.jpg",
+    "static/media/featureimg3.avif": "/nobroker/static/media/featureimg3.5d7a67a35a330c7a224b.avif",
+    "static/media/homeloan.jpg": "/nobroker/static/media/homeloan.f3f6fe6765297f1d7757.jpg",
+    "static/media/featureimg6.avif": "/nobroker/static/media/featureimg6.2151dd3183cf67413ee8.avif",
+    "static/media/featureimg5.jpg": "/nobroker/static/media/featureimg5.82b1072828316bc894ac.jpg",
+    "static/media/rentrecipt.webp": "/nobroker/static/media/rentrecipt.79840a432484716cb47d.webp",
+    "static/media/hall2.webp": "/nobroker/static/media/hall2.9c15d87a58d195043f61.webp",
+    "static/media/featureimg4.avif": "/nobroker/static/media/featureimg4.7983e22a023192e13b82.avif",
+    "static/media/aggrement.jpg": "/nobroker/static/media/aggrement.940e2dcd8c79dae2adf0.jpg",
+    "static/media/housepaint.jpg": "/nobroker/static/media/housepaint.11719a2e18d9a60ef904.jpg",
+    "index.html": "/nobroker/index.html",
+    "main.47103de8.css.map": "/nobroker/static/css/main.47103de8.css.map",
+    "main.6c5d3cd1.js.map": "/nobroker/static/js/main.6c5d3cd1.js.map",
+    "453.e52305e5.chunk.js.map": "/nobroker/static/js/453.e52305e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47103de8.css",
+    "static/js/main.6c5d3cd1.js"
+  ]
+}
